@@ -4,7 +4,7 @@
 4. True Lies
 5. Predator (old)
 6. Rambo (3 parts)
-7. Robocap (old)
+7. Robocop (old)
 8. Hot Shots (1991)
 9. Death before
 10. Scary Movie (6 parts)
