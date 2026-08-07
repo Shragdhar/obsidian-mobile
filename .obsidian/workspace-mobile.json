@@ -11,14 +11,17 @@
             "id": "0fe5f55c35e50e35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Daily/2026-08-06.md",
-                "mode": "source",
-                "source": false
+                "file": "Klein Rough Sketch.canvas",
+                "viewState": {
+                  "x": -46.599946594721956,
+                  "y": 11.902294050515088,
+                  "zoom": -0.17477913719026156
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-08-06"
+              "icon": "lucide-layout-dashboard",
+              "title": "Klein Rough Sketch"
             }
           }
         ]
@@ -185,14 +188,14 @@
   },
   "active": "0fe5f55c35e50e35",
   "lastOpenFiles": [
+    "Klein Rough Sketch.canvas",
+    "Daily/2026-08-06.md",
     "Daily/2026-08-07.md",
     "Daily/2025-07-23.md",
     "Daily/2026-07-23.md",
-    "Daily/2026-08-06.md",
     "Movies.md",
     "Untitled.md",
     "Untitled.base",
-    "Untitled.canvas",
     "Daily"
   ]
 }
