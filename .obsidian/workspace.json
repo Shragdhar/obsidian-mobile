@@ -15,9 +15,9 @@
               "state": {
                 "file": "Klein Rough Sketch.canvas",
                 "viewState": {
-                  "x": 307.29998779296875,
-                  "y": 11.200006103515634,
-                  "zoom": 0
+                  "x": 258.96683551752835,
+                  "y": -88.01240660314392,
+                  "zoom": -1.2000000000000002
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -203,9 +203,11 @@
   },
   "active": "0c5ee4e131741d7a",
   "lastOpenFiles": [
+    "Klein Engine Plans.md",
+    "Klein Rough Sketch.canvas",
+    "Hostel Allotment.md",
     "Movies.md",
     "Daily/2026-08-06.md",
-    "Daily/2025-07-23.md",
-    "Klein Rough Sketch.canvas"
+    "Daily/2025-07-23.md"
   ]
 }
