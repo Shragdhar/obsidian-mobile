@@ -8,10 +8,6 @@
 		{"id":"4234f3d47826568f","type":"group","x":-380,"y":-840,"width":320,"height":260,"label":"Legends"},
 		{"id":"9d539f1d877715e5","type":"group","x":723,"y":802,"width":257,"height":319,"color":"#93c9cd","label":"Methods"},
 		{"id":"7f16011300e230c9","type":"group","x":1040,"y":580,"width":376,"height":201,"color":"4","label":"Events"},
-		{"id":"b1e9314351a29fa8","type":"text","text":"","x":-980,"y":360,"width":2840,"height":50,"color":"#755c5c"},
-		{"id":"df4249c97df2626e","type":"text","text":"Components : Vector","x":-120,"y":560,"width":220,"height":60,"color":"6"},
-		{"id":"849bad2b4808bd99","type":"text","text":"pointer to space","x":-120,"y":620,"width":220,"height":60,"color":"6"},
-		{"id":"b290f7ff58d92c24","type":"text","text":"add_component","x":-100,"y":820,"width":180,"height":60,"color":"6"},
 		{"id":"3b5829c95bb642ff","type":"text","text":"## GameObject\nAnything that appears in Scene / Game","x":61,"y":-220,"width":200,"height":140,"color":"5"},
 		{"id":"738653344b9f1ffd","type":"text","text":"## Space\nContains GameObjects and related things","x":520,"y":-420,"width":203,"height":140,"color":"5"},
 		{"id":"57db3e3da93eb6c2","type":"text","text":"- Player\n- Enemy\n- Tween\n- etc.","x":299,"y":-220,"width":141,"height":140,"color":"#777099"},
@@ -30,7 +26,11 @@
 		{"id":"8de2cf58a1c76c9e","type":"text","text":"update_game_objects","x":740,"y":820,"width":220,"height":60,"color":"6"},
 		{"id":"2efb7797a9e4c97a","type":"text","text":"Iterates over and execute the OnUpdate method on GameObjects. \nWill be handled differently by ScriptComponent later","x":1020,"y":800,"width":250,"height":160,"color":"#755c5c"},
 		{"id":"c5c296f8ac7663d7","type":"text","text":"## Future Design\nSpace  will iterate over GameObjects, get their ScriptComponent be it C++ or Lua and then call their OnUpdate functions. Could call even more methods.\n\nScriptComponents allow for changing behavior of objects without hardcoding them inside the class","x":1460,"y":800,"width":260,"height":351,"color":"#e22275"},
-		{"id":"1f4ae3cb7c1e307a","type":"file","file":"Klein Engine Plans.md","x":-940,"y":-885,"width":440,"height":400}
+		{"id":"1f4ae3cb7c1e307a","type":"file","file":"Klein Engine Plans.md","x":-940,"y":-885,"width":440,"height":400},
+		{"id":"b1e9314351a29fa8","type":"text","text":"","x":-980,"y":360,"width":2840,"height":50,"color":"#755c5c"},
+		{"id":"df4249c97df2626e","type":"text","text":"Components : Vector","x":-120,"y":560,"width":220,"height":60,"color":"6"},
+		{"id":"849bad2b4808bd99","type":"text","text":"pointer to space","x":-120,"y":620,"width":220,"height":60,"color":"6"},
+		{"id":"b290f7ff58d92c24","type":"text","text":"add_component","x":-100,"y":820,"width":180,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"c974b8071fb262e3","fromNode":"16e662547cc43f23","fromSide":"bottom","toNode":"3b5829c95bb642ff","toSide":"top"},
