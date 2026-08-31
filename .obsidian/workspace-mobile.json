@@ -11,20 +11,60 @@
             "id": "0fe5f55c35e50e35",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Klein Rough Sketch.canvas",
-                "viewState": {
-                  "x": -692.328670005537,
-                  "y": -671.0002363644444,
-                  "zoom": 0.03893507735701295
-                }
+                "file": "Movies.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Klein Rough Sketch"
+              "icon": "lucide-file",
+              "title": "Movies"
+            }
+          },
+          {
+            "id": "0fb4204fb20efc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "a3608f361305935d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_INBOX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_INBOX"
+            }
+          },
+          {
+            "id": "eff4d64809d51d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-09-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-01"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,18 +226,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "0fe5f55c35e50e35",
+  "active": "eff4d64809d51d2b",
   "lastOpenFiles": [
-    "Klein Engine Plans.md",
-    "Hostel Allotment.md",
-    "Daily/2026-08-09.md",
+    "The Organizer/General Programming Projects.md",
+    "Daily/2026-09-01.md",
     "Klein Rough Sketch.canvas",
-    "Daily/2026-08-06.md",
-    "Daily/2026-08-07.md",
+    "The Organizer/Interests.canvas",
+    "Generative Glitch Art Handles on Instragram.md",
+    "_INBOX.md",
+    "Daily/2026-08-24.md",
+    "Daily/2026-08-25.md",
+    "Daily/2026-08-17.md",
+    "Daily/2026-08-09.md",
     "Daily/2025-07-23.md",
     "Daily/2026-07-23.md",
+    "Daily/2026-08-06.md",
+    "Daily/2026-08-07.md",
+    "Interests.canvas",
+    "The Organizer/College Projects.md",
+    "The Organizer",
+    "Projects.md",
+    "C - C++ Deep Project Ideas.md",
     "Movies.md",
-    "Untitled.md",
+    "Biological Methods to Enhance Learning.md",
+    "Klein Engine Plans.md",
+    "Daily/2026-08-20.md",
+    "Daily/2026-08-19.md",
+    "Daily/2026-08-16.md",
+    "Daily/2026-08-13.md",
+    "Hostel Allotment.md",
     "Untitled.base",
     "Daily"
   ]
