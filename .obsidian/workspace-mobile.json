@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-09-01.md",
+                "file": "Movies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-01"
+              "title": "Movies"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "eff4d64809d51d2b",
   "lastOpenFiles": [
-    "_INBOX.md",
     "Daily/2026-09-01.md",
+    "_INBOX.md",
     "The Organizer/General Programming Projects.md",
     "Klein Rough Sketch.canvas",
     "The Organizer/Interests.canvas",
