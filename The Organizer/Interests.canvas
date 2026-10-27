@@ -4,20 +4,35 @@
 		{"id":"95f368ad3f240eee","type":"group","x":-420,"y":-321,"width":1120,"height":741,"label":"Creativity"},
 		{"id":"160bff9e3d548199","type":"group","x":-400,"y":60,"width":600,"height":340,"color":"#bb8696","label":"Learn Softwares"},
 		{"id":"fb4cf7b767cdd8c0","type":"group","x":220,"y":60,"width":460,"height":340,"color":"#bb8696","label":"Make"},
+		{"id":"aebe1382da1a7269","type":"text","text":"## Cybersecurity\n- I want to learn **Reverse Engineering**\n- I want to get decent at **Bug Bounties**\n\n**Some helpful websites below**\n[Portswigger Labs](https://portswigger.net/web-security/all-labs)\n[pwn.college](https://pwn.college)\n[picoCTF](https://picoctf.org)\n[Reversing.kr](http://reversing.kr)\n[Root-Me](https://www.root-me.org)\n","x":740,"y":-220,"width":360,"height":300},
+		{"id":"47315084fd7fec86","type":"text","text":"Things I want to train myself on / get really good at","x":740,"y":-300,"width":440,"height":60,"color":"3"},
+		{"id":"1f40874ffce2e577","type":"text","text":"I want to get extremely good at C++","x":1120,"y":-220,"width":165,"height":110},
+		{"id":"be717c64c5437787","type":"text","text":"I want to get extremely good at RE","x":1285,"y":-220,"width":165,"height":110},
+		{"id":"eab7b3909aea3fcf","type":"text","text":"learning","x":-668,"y":140,"width":168,"height":50,"color":"#94a17d"},
+		{"id":"7804a69bf3d08431","type":"text","text":"","x":-800,"y":140,"width":50,"height":50,"color":"2"},
+		{"id":"50768979070814bd","type":"text","text":"Blender","x":-380,"y":140,"width":163,"height":50},
+		{"id":"6c6001ea6d981ee4","type":"text","text":"not working on","x":-668,"y":75,"width":168,"height":60,"color":"#94a17d"},
+		{"id":"8288dd31226f6cdb","type":"text","text":"","x":-800,"y":80,"width":50,"height":50},
+		{"id":"5884d2bf5cb7726a","type":"text","text":"I'm in general a very creative person so a lot of my brain power is spent into \"making\" things","x":-620,"y":-310,"width":192,"height":180,"color":"#67bcab"},
 		{"id":"d1c0804f72ab49ea","type":"text","text":"Lets try organizing my interests, life, goals and things I like to do.","x":-420,"y":-420,"width":540,"height":50,"color":"2"},
-		{"id":"f59af479ef9676e3","type":"text","text":"This is supposed to be surface level, no deep explanations","x":125,"y":-420,"width":482,"height":50,"color":"2"},
 		{"id":"8640d2321256536a","type":"text","text":"Touch Designer","x":-380,"y":80,"width":163,"height":50},
-		{"id":"4fca1aba74134cd8","type":"text","text":"Music","x":240,"y":80,"width":163,"height":50},
-		{"id":"2ddb5bbf63397f98","type":"text","text":"Godot","x":-380,"y":200,"width":163,"height":50},
+		{"id":"e73525af7f195f9b","type":"text","text":"Ableton","x":-380,"y":260,"width":163,"height":50,"color":"2"},
+		{"id":"2ddb5bbf63397f98","type":"text","text":"Godot","x":-380,"y":200,"width":163,"height":50,"color":"2"},
+		{"id":"ae53f03b518a6dd7","type":"text","text":"i know enough","x":-668,"y":198,"width":168,"height":55,"color":"#94a17d"},
+		{"id":"e0bdf1bd699f5b06","type":"text","text":"","x":-800,"y":200,"width":50,"height":50,"color":"4"},
 		{"id":"691e5dc15aecc5df","type":"text","text":"Things I want to produce / make tangible / come to life / develop","x":-400,"y":-300,"width":540,"height":60,"color":"3"},
 		{"id":"2780ef12840eb926","type":"text","text":"## Programming\n[[General Programming Projects]]","x":-396,"y":-220,"width":246,"height":220},
-		{"id":"5884d2bf5cb7726a","type":"text","text":"I'm in general a very creative person so a lot of my brain power is spent into \"making\" things","x":-620,"y":-310,"width":192,"height":180,"color":"#67bcab"},
-		{"id":"50768979070814bd","type":"text","text":"Blender","x":-380,"y":140,"width":163,"height":50},
+		{"id":"ae217f7ba63d3016","type":"text","text":"## Sound Design\n","x":-121,"y":-220,"width":246,"height":220},
+		{"id":"f59af479ef9676e3","type":"text","text":"This is supposed to be surface level, no deep explanations","x":125,"y":-420,"width":482,"height":50,"color":"2"},
+		{"id":"4fca1aba74134cd8","type":"text","text":"Music","x":240,"y":80,"width":163,"height":50},
 		{"id":"412a5147d963e302","type":"text","text":"Short Stories","x":240,"y":140,"width":163,"height":50},
 		{"id":"87580994127f2ebf","type":"text","text":"World: Kreunum","x":240,"y":200,"width":180,"height":50},
 		{"id":"a39e3dd8f4d804cc","type":"text","text":"Cool TD vids","x":240,"y":260,"width":163,"height":50},
-		{"id":"47315084fd7fec86","type":"text","text":"Things I want to train myself on / get really good at","x":740,"y":-300,"width":440,"height":60,"color":"3"},
-		{"id":"aebe1382da1a7269","type":"text","text":"## Cybersecurity\n- I want to learn **Reverse Engineering**\n- I want to get decent at **Bug Bounties**\n\n**Some helpful websites below**\n[Portswigger Labs](https://portswigger.net/web-security/all-labs)","x":740,"y":-220,"width":360,"height":220}
+		{"id":"4364456f6bbfead8","type":"file","file":"The Organizer/Active Cycle.canvas","x":-1140,"y":-260,"width":320,"height":300}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"aa67e09b6aad9249","fromNode":"e0bdf1bd699f5b06","fromSide":"right","toNode":"ae53f03b518a6dd7","toSide":"left"},
+		{"id":"d0f89460daf89842","fromNode":"7804a69bf3d08431","fromSide":"right","toNode":"eab7b3909aea3fcf","toSide":"left"},
+		{"id":"21d0db4945d23fe7","fromNode":"8288dd31226f6cdb","fromSide":"right","toNode":"6c6001ea6d981ee4","toSide":"left"}
+	]
 }

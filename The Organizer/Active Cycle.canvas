@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"a6cd9bb77a7dc99c","type":"group","x":-330,"y":-250,"width":320,"height":501,"color":"#53ca71","label":"Active"},
+		{"id":"246aadda53908828","type":"group","x":10,"y":-250,"width":320,"height":501,"color":"#d6c27a","label":"Cycle"},
+		{"id":"4f75b6449891d71e","type":"text","text":"Music Dev","x":-310,"y":-230,"width":250,"height":60},
+		{"id":"e7d5e6b73a4dc3eb","type":"text","text":"DSA","x":-310,"y":-150,"width":250,"height":60},
+		{"id":"287c3f77c03aac10","type":"text","text":"Series","x":-310,"y":-70,"width":250,"height":60},
+		{"id":"3196a1597979cced","type":"text","text":"Game Dev","x":30,"y":-230,"width":250,"height":60},
+		{"id":"46d36a24b9b0a48b","type":"text","text":"App Dev","x":30,"y":-150,"width":250,"height":60},
+		{"id":"cb85871e97de87e4","type":"text","text":"Web Dev","x":30,"y":-70,"width":250,"height":60}
+	],
+	"edges":[]
+}
